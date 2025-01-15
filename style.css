@@ -1,9 +1,23 @@
 /*
-tac dong len toan bo web
+1.tac dong len toan bo web
 * {
   color: brown;
   font-size: 24px;
-} */
+
+2.tac dong len class chi dinh
 h2.demo {
   color: red;
+} 
+3.nhom lai -> tac dong len cac the chi dinh
+h1,
+p,
+.demo,
+#title {
+  color: aqua;
+}
+  
+4.khi co nhieu class cung ten nhung muon
+chi dinh ro rang hon*/
+.demo.demo2 {
+  color: rgb(136, 0, 255);
 }
